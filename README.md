@@ -1,43 +1,23 @@
-# Welcome to [Astro](https://astro.build)
+# WammyIP.com
+Code Repo for www.wammyip.com
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/starter)
+This website was built using Astro, and vanilla CSS and Javascript
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Before building this website, I completed the Fundamentals course
+at The Odin Project, and began working through the Google Digital
+Marketing Certificate. I knew that in order to build a website like
+this one I would need to start with designing it.
 
-## 🚀 Project Structure
+I used Adobe XD to design the website, and below you will find a
+copy of the original template. This original template was done
+in black and white, so that I could best determine where to place light
+and dark colors. It also didn't include any images, as I was unsure
+what images to add in.
 
-Inside of your Astro project, you'll see the following folders and files:
 
-```
-/
-├── public/
-│   ├── robots.txt
-│   └── favicon.ico
-├── src/
-│   ├── components/
-│   │   └── Tour.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+//Insert template image here
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command           | Action                                       |
-|:----------------  |:-------------------------------------------- |
-| `npm install`     | Installs dependencies                        |
-| `npm run dev`     | Starts local dev server at `localhost:3000`  |
-| `npm run build`   | Build your production site to `./dist/`      |
-| `npm run preview` | Preview your build locally, before deploying |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://github.com/withastro/astro) or jump into our [Discord server](https://astro.build/chat).
+I decoded that I wanted to build the website and see it up and running,
+and from there I could do more research in my downtime to determine what
+images would be best to use within the site to make it the most user
+friendly and appealing it could be.
